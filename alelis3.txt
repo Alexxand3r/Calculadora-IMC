@@ -1,1 +1,0 @@
-estoy tratando de pasar de la principal a una sub rama
